@@ -1,4 +1,4 @@
-# PureCSS Flex Slider #
+# PureCSS Galerie Flex Slider #
 
 >A responsive slider using only CSS Flex
 
